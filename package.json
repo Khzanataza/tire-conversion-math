@@ -1,0 +1,19 @@
+{
+  "name": "tire-conversion-math",
+  "version": "1.0.0",
+  "description": "Zero-dependency JavaScript formulas for metric-to-inches tire conversion, speedometer error, effective axle gear ratio, wheel offset, and TRA load inflation.",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://tiretoinches.com/",
+  "keywords": [
+    "tire-calculator",
+    "metric-to-inches",
+    "wheel-offset",
+    "automotive",
+    "gear-ratio",
+    "speedometer-calibration",
+    "fitment"
+  ],
+  "author": "TireToInches Engineering Desk (https://tiretoinches.com/)",
+  "license": "MIT"
+}
